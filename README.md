@@ -6,4 +6,4 @@
 Разархивировать проект
 Если используете eclipse ide: file --> Open Projects from FileSystem --> выбрать папку с проектом --> готово
 К вашему проекту добавить в module path библиотееку openjfx-21.x.x и jar-файлы jdbc драйверов для MySQL и SQL Server
-Запустить приложение
+Запустить приложение *(метод main находится в классе Planner)
