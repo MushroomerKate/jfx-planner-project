@@ -102,4 +102,8 @@ public class Planner extends Application {
         
         ui.display(false);
     }
+
+    public static void main(String[] args){
+        launch(args);
+    }
 }
